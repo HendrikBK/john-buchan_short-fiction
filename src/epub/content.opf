@@ -74,7 +74,8 @@
 		<dc:creator id="author">John Buchan</dc:creator>
 		<meta property="file-as" refines="#author">Buchan, John</meta>
 		<link href="https://en.wikipedia.org/wiki/John_Buchan" refines="#author" rel="schema:sameAs"/>
-		<link href="https://id.loc.gov/authorities/names/n79045167.html" refines="#author" rel="schema:sameAs"/>		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<link href="https://id.loc.gov/authorities/names/n79045167.html" refines="#author" rel="schema:sameAs"/>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
