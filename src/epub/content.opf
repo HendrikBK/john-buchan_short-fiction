@@ -51,13 +51,13 @@
 		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<!-- Sir Quixote of the Moors (1895) -->
-		<dc:source>https://gutenberg.org/ebooks/46345</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/46345</dc:source>
 		<dc:source>https://archive.org/details/sirquixoteofmoor00buch</dc:source>
 		<!-- Grey Weather (1899) -->
-		<dc:source>https://gutenberg.net.au/ebooks14/1400161h.html</dc:source>
+		<dc:source>https://www.gutenberg.net.au/ebooks14/1400161h.html</dc:source>
 		<dc:source>https://archive.org/details/bwb_KR-531-479</dc:source>
 		<!-- The Watcher by the Threshold (1901) -->
-		<dc:source>https://gutenberg.net.au/ebooks12/1201751h.html</dc:source>
+		<dc:source>https://www.gutenberg.net.au/ebooks12/1201751h.html</dc:source>
 		<dc:source>https://archive.org/details/watcherbythresho00buchuoft</dc:source>
 		<!-- The Moon Endureth (1912) -->
 		<dc:source>https://www.gutenberg.org/ebooks/715</dc:source>
