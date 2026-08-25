@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="the-riding-of-ninemileburn.xhtml">
+		<ignore code="y-013">
+			<line>29</line>
+			<reason>Punctuation appears to be correct.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
