@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="space.xhtml">
+		<ignore code="t-003">
+			<line>27</line>
+			<reason>Quotation mark appears to be correct.</reason>
+		</ignore>
+	</file>
 	<file path="the-riding-of-ninemileburn.xhtml">
 		<ignore code="y-013">
 			<line>29</line>
