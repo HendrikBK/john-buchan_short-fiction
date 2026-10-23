@@ -47,9 +47,9 @@
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
 		<meta property="schema:abstract">A collection of short fiction by John Buchan, ordered by date of publication.</meta>
 		<dc:description>
-			<p>Arguably better known as a novelist, <a href="https://standardebooks.org/ebooks/john-buchan">John Buchan</a> was also a prolific author of short fiction, having published several short stories and collections during his life.</p>
-			<p>A Scotsman, many of Buchan’s stories are set in Scotland and feature regional folklore and customs of the region, often making use of Scottish vernacular speech in dialogues. His stories follow a variety of themes, including adventure, historical fiction, spirituality and the supernatural.</p>
-			<p>This edition contains Buchan’s short fiction known to have passed into Public Domain, including all the stories collected in his anthologies.</p>
+			&lt;p&gt;Arguably better known as a novelist, &lt;a href="https://standardebooks.org/ebooks/john-buchan"&gt;John Buchan&lt;/a&gt; was also a prolific author of short fiction, having published several short stories and collections during his life.&lt;/p&gt;
+			&lt;p&gt;A Scotsman, many of Buchan’s stories are set in Scotland and feature regional folklore and customs of the region, often making use of Scottish vernacular speech in dialogues. His stories follow a variety of themes, including adventure, historical fiction, spirituality and the supernatural.&lt;/p&gt;
+			&lt;p&gt;This edition contains Buchan’s short fiction known to have passed into Public Domain, including all the stories collected in his anthologies.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<!-- Sir Quixote of the Moors (1895) -->
