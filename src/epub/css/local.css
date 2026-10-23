@@ -41,6 +41,10 @@ blockquote[epub|type~="dedication"] > *{
 	font-variant: small-caps;
 	margin-top: 1em;
 }
+
+[epub|type~="epigraph"] cite i{
+	font-style: italic;
+}
 /* End all epigraphs */
 
 /* Epigraphs in section headers */
