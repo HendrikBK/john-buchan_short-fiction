@@ -38,6 +38,8 @@ The following stories come from _The Moon Endureth_:
 - “The Green Glen”
 - “The Rime of True Thomas” (Published in _Grey Weather_ as “The Moor-Song”)
 
+“Streams of Water in the South” was published both in _Grey Weather_ and _The Moon Endureth_. The earlier version in _Grey Weather_ has two paragraphs not present in the later _The Moon Endureth_ version.
+
 In “Sir Quixote of the Moors” there was an extra, unauthorized paragraph at the end of the text. It was removed in this edition.
 
 In “Streams of Water in the South” some quotes passages were missing quotes. Later editions of this story show the proper quotation marks. Appropriate quotation marks were added to this edition.
