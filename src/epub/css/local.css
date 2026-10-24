@@ -113,3 +113,8 @@ p span.i3{
 	margin-bottom: 1em;
 	text-align: center;
 }
+
+/* Preface in "Sir Quixote */
+#sir-quixote-of-the-moors-preface{
+	break-after: page;
+}
