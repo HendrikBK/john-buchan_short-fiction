@@ -112,3 +112,12 @@ blockquote header{
 	margin-bottom: 1em;
 	text-align: center;
 }
+
+/* Letters in "Fountainblue" */
+[epub|type~="z3998:letter"] header{
+	text-align: right;
+}
+
+[epub|type~="z3998:letter"] header + p{
+	text-indent: 0;
+}
