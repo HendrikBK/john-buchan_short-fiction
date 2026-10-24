@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="the-kings-of-orion.xhtml">
+		<ignore code="y-013">
+			<line>82</line>
+			<reason>The supposed closing single quote is actually used to represent elision, not a closing quotation.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
