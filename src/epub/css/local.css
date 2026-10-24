@@ -4,8 +4,8 @@
 
 /* Dedication "Sir Quixote" */
 section[epub|type~="dedication"]{
-	text-align: center;
 	page-break-after: always;
+	text-align: center;
 }
 
 section[epub|type~="dedication"] > *{
@@ -121,4 +121,9 @@ blockquote header{
 
 [epub|type~="z3998:letter"] header + p{
 	text-indent: 0;
+}
+
+/* Preface in "Sir Quixote */
+#sir-quixote-of-the-moors-preface{
+	page-break-after: always;
 }
