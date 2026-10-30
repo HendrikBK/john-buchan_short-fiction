@@ -55,16 +55,16 @@
 		<!-- Sir Quixote of the Moors (1895) -->
 		<dc:source>https://www.gutenberg.org/ebooks/46345</dc:source>
 		<dc:source>https://archive.org/details/sirquixoteofmoor00buch</dc:source>
-		<!-- Grey Weather (1899) -->
+		<!-- Grey Weather (1899) - Prester John - At the Article of Death - Politics and the May-Fly - A Reputation - A Journey of Little Profit - At the Rising of the Waters - The Earlier Affection - The Black Fishers - Summer Weather - The Oasis in the Snow - The Herd of Standlan - Comedy in the Full Moon -->
 		<dc:source>https://www.gutenberg.net.au/ebooks14/1400161h.html</dc:source>
 		<dc:source>https://archive.org/details/bwb_KR-531-479</dc:source>
-		<!-- The Watcher by the Threshold (1901) -->
+		<!-- The Watcher by the Threshold (1901) - Fountainblue -->
 		<dc:source>https://www.gutenberg.net.au/ebooks12/1201751h.html</dc:source>
 		<dc:source>https://archive.org/details/watcherbythresho00buchuoft</dc:source>
-		<!-- The Moon Endureth (1912) -->
+		<!-- The Moon Endureth (1912) - The Company of the Majorlaine - A Lucid Interval - The Lemnian - Space - Streams of Water in the South - The Grove of Ashtaroth - The Riding of Ninemilleburn - The Kings of Orion - The Green Glen - The Rime  -->
 		<dc:source>https://www.gutenberg.org/ebooks/715</dc:source>
 		<dc:source>https://archive.org/details/bwb_KV-458-512</dc:source>
-		<!-- The Watcher by the Threshold (1918) -->
+		<!-- The Watcher by the Threshold (1918) - No-Man's Land - The Far Islands - The Watcher By the Threshold - The Outgoing of the Tide - The Rime of True Thomas - Basilissa - The King of Ypres -->
 		<dc:source>https://www.gutenberg.org/ebooks/57402</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000585974</dc:source>
 		<meta property="schema:wordCount">WORD_COUNT</meta>
